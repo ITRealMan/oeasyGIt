@@ -9,3 +9,7 @@ revise my work yesterday
 
 
 git has mutable index called staget.
+
+
+
+insert to update file
